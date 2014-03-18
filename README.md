@@ -6,11 +6,11 @@ Wikipedia is cool and most of us use it every day. But it's web-design is not ve
 
 ## Screenshots
 
-![foo](http://www.example.com)
+![foo](https://raw.github.com/arrizer/Prettypedia/master/Screenshots/page.png)
 
 ## Install
 
-Open this page in Safari and __[click here](http://www.example.com)__
+Just double-click the [pre-built package](https://github.com/arrizer/Prettypedia/raw/master/PrettyPedia.safariextz) after downloading it.
 
 Or get a Safari Developer Certificate und use the Extension Builder to load the __PrettyPedia.safariextension__.
 
